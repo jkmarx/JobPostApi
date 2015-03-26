@@ -12,7 +12,7 @@ class LocationsController < ApplicationController
   # GET /locations/1
   # GET /locations/1.json
   def show
-    render json: @location
+    render json: @location.jobs
   end
 
   # POST /locations
