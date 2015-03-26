@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyString
+  location_id: 
+  category: 1
+  position_type: 1
+  company: MyString
+
+two:
+  name: MyString
+  description: MyString
+  location_id: 
+  category: 1
+  position_type: 1
+  company: MyString
